@@ -35,19 +35,19 @@ keyes商标和徽标是KEYES DIY ROBOT co.,LTD的版权,任何人和公司在没
 
 ---
 
-# Keyes Arduino UNO R4 24款传感器学习套装
+# Keyes Arduino UNO R4 42款传感器学习套装
 
-![Img](./media/img-20240514161829.jpg)
+![Img](./media/img-20240514161949.jpg)
 
 ---
 
 ## 产品介绍
 
-您想学习编程吗？目前，编程已发展到较低年龄组，每个人都能编程将会是一种趋势。使用此产品和教程，您可以轻松了解并学习基于UNO R4开发环境下24款传感器/模块原理及使用方法，以及掌握如何通过编写程序使用它们。
+您想学习编程吗？目前，编程已发展到较低年龄组，每个人都能编程将会是一种趋势。使用此产品和教程，您可以轻松了解并学习基于UNO R4开发环境下42款传感器/模块原理及使用方法，以及掌握如何通过编写程序使用它们。
 
-Keyes Arduino UNO R4 24款传感器学习套装主要包含了我们常用的24款传感器/模块，还有多种规格可选的主控板、传感器扩展板和XH-2.54mm高温硅胶连接线。24款传感器/模块和我们提供的传感器扩展板接口完全匹配，使用时，我们只需要用连接线将传感器/模块连接在传感器扩展板接口上，简单方便。
+Keyes Arduino UNO R4 42款传感器学习套装主要包含了我们常用的42款传感器/模块，还有多种规格可选的主控板、传感器扩展板和XH-2.54mm高温硅胶连接线。42款传感器/模块和我们提供的传感器扩展板接口完全匹配，使用时，我们只需要用连接线将传感器/模块连接在传感器扩展板接口上，简单方便。
 
-为了让你对这24款传感器/模块有更深入的了解，课程中我们提供了对应的原理图、接线方法、Arduino C 语言代码、实验结果和简单的代码说明等信息。通过这些课程，可以让我们对编程方法、逻辑、电子电路有了更深刻的理解。       
+为了让你对这42款传感器/模块有更深入的了解，课程中我们提供了对应的原理图、接线方法、Arduino C 语言代码、实验结果和简单的代码说明等信息。通过这些课程，可以让我们对编程方法、逻辑、电子电路有了更深刻的理解。       
 
 此外，如果您对本教程和工具包有任何困难或问题，您可以随时向我们咨询。
 
@@ -59,40 +59,61 @@ Keyes Arduino UNO R4 24款传感器学习套装主要包含了我们常用的2
 | ---- | ------------------------ | ------------------------- | ------------------------------ | ------ |
 | 1 | ![](media/KS5016.png) |![](media/KS5016S.png) |UNO R4 WiFi/Minima主板| 1 |
 | 2 | ![img](media/KE1004.png) | ![img](media/KE1004.png) | 传感器扩展板 | 1 |
-| 3 | ![img](media/KE4001.png) | ![img](media/KE4001S.png) | 紫色LED模块 | 1 |
+| 3 | ![img](media/KE4008.png) | ![img](media/KE4008S.png) | 交通灯模块 | 1 |
 | 4 | ![img](media/KE4010.png) | ![img](media/KE4010S.png) | 有源蜂鸣器模块 | 1 |
 | 5 | ![](media/KE4067.png) | ![img](media/KE4067S.png) | 8002b功放 喇叭模块| 1 |
 | 6 | ![img](media/KE4045.png) | ![img](media/KE4045S.png) | 自锁按键模块  | 1 |
 | 7 | ![img](media/KE4017.png) | ![img](media/KE4017S.png) | 倾斜传感器 | 1  |
 | 8 | ![img](media/KE4018.png) | ![img](media/KE4018S.png) | 人体红外热释传感器 | 1 |
 | 9 | ![img](media/KE4019.png) | ![img](media/KE4019S.png) | 避障传感器 | 1  |
-| 10 | ![img](media/KE4025.png) | ![img](media/KE4025S.png) | NTC-MF52AT模拟温度传感器 | 1 |
-| 11| ![img](media/KE4026.png) | ![img](media/KE4026S.png) | 光敏传感器  | 1 |
-| 12 | ![img](media/KE4027.png) | ![img](media/KE4027S.png) | 声音传感器  | 1 |
-| 13 | ![img](media/KE4064.png) | ![img](media/KE4064S.png) | 滑动电位器模块  | 1 |
-| 14 | ![img](media/KE4036.png) | ![img](media/KE4036S.png) | 红外接收模块  | 1  |
-| 15 | ![img](media/KE4033.png) | ![img](media/KE4033S.png) | XHT11温湿度传感器（兼容DHT11）| 1 |
-| 16 | ![img](media/KE4050.png) | ![img](media/KE4050S.png) | 摇杆模块  | 1  |
-| 17 | ![img](media/KE4066.png) | ![img](media/KE4066S.png) | HT16K33_8X8点阵模块  | 1  |
-| 18 | ![img](media/KE4060.png) | ![img](media/KE4060S.png) | TM1650四位数码管模块 | 1 |
-| 19 | ![img](media/KE4069.png) | ![img](media/KE4069S.png) | 薄膜压力传感器 | 1 |
-| 20 | ![img](media/KE4072.png) | ![img](media/KE4072S.png) | DS1307时钟传感器模块  | 1 |
-| 21 | ![](media/MD0017.png)    | ![](media/MD0017.png)  | HC-SR04超声波传感器  | 1 |
-| 22 | ![img](media/KE4039.png) | ![img](media/KE4039S.png) | 超声波转接模块 | 1  |
-| 23 | ![img](media/KE4013.png) | ![img](media/KE4013S.png) | 电容触摸模块  | 1 |
-| 24 | ![img](media/KE4014.png) | ![img](media/KE4014S.png) | 光折断模块| 1 |
-| 25 | ![](media/KE4038.png) | ![](media/KE4038S.png) | 130电机模块  | 1 |
-| 26 | ![](media/KE4048.png) | ![](media/KE4048S.png) | 水滴传感器  | 1  |
-| 27 | ![](media/KE4022.png)  | ![](media/KE4022.png)  | 舵机驱动模块  | 1  |
-| 28 | ![](media/9G.png)  | ![](media/9G.png)   | 舵机 配十字臂  | 1 |
-|29  | ![](media/11946.png) |![](media/11946.png)|风扇叶|1|
-| 30 | ![](media/remotecontrol.png) | ![](media/remotecontrol.png) | 遥控器  | 1 |
-| 31 | ![](media/ABC.png)    | ![](media/ABC.png)     | 电源适配器  | 1      |
-| 32 | ![](media/USB.jpg)  | ![](media/USB.jpg)   | USB线   | 1  |
-| 33 | ![](media/3pin.png)  | ![](media/3pin.png)   | 3P线 (反向)| 5 |
-|34 | ![](media/4pin.png)  | ![](media/4pin.png)   | 4P线 (反向)  | 3 |
-| 35 | ![](media/5pin.png)  | ![](media/5pin.png)   | 5P线 (反向) | 2|
-| 36 | ![](media/ABC13.png)  | ![](media/ABC13.png)   | 一字螺丝刀 | 1  |
+| 10 | ![img](media/KE4009.png) | ![img](media/KE4009S.png) | SK6812 RGB模块 | 1 |
+| 11 | ![img](media/KE4025.png) | ![img](media/KE4025S.png) | NTC-MF52AT模拟温度传感器 | 1 |
+| 12| ![img](media/KE4026.png) | ![img](media/KE4026S.png) | 光敏传感器  | 1 |
+| 13 | ![img](media/KE4027.png) | ![img](media/KE4027S.png) | 声音传感器  | 1 |
+| 14 | ![img](media/KE4064.png) | ![img](media/KE4064S.png) | 滑动电位器模块  | 1 |
+| 15 | ![img](media/KE4036.png) | ![img](media/KE4036S.png) | 红外接收模块  | 1  |
+| 16 | ![img](media/KE4047.png) | ![img](media/KE4047S.png) | TCS34725 颜色传感器 | 1 |
+| 17 |![img](media/KE4021.png)  |![img](media/KE4021.png)  |敲击传感器 |1 |
+| 18| ![img](media/KE4020.png) | ![img](media/KE4020S.png) | 火焰传感器  | 1 | 
+| 19 | ![img](media/KE4049.png) | ![img](media/KE4049S.png) | 旋转编码器模块  | 1  |
+| 20 | ![img](media/KE4050.png) | ![img](media/KE4050S.png) | 摇杆模块  | 1  |
+| 21 | ![img](media/KE4066.png) | ![img](media/KE4066S.png) | HT16K33_8X8点阵模块  | 1  |
+| 22 | ![img](media/KE4060.png) | ![img](media/KE4060S.png) | TM1650四位数码管模块 | 1 |
+| 23 | ![img](media/KE4069.png) | ![img](media/KE4069S.png) | 薄膜压力传感器 | 1 |
+| 24 | ![img](media/KE4072.png) | ![img](media/KE4072S.png) | DS1307时钟传感器模块  | 1 |
+| 25 | ![](media/MD0017.png)    | ![](media/MD0017.png)  | HC-SR04超声波传感器  | 1 |
+| 26 | ![img](media/KE4039.png) | ![img](media/KE4039S.png) | 超声波转接模块 | 1  |
+| 27 | ![img](media/KE4013.png) | ![img](media/KE4013S.png) | 电容触摸模块  | 1 |
+| 28 | ![img](media/KE4014.png) | ![img](media/KE4014S.png) | 光折断模块| 1 |
+| 29 | ![img](media/KE4044.png) | ![img](media/KE4044S.png) |震动马达模块 | 1 |
+| 30 | ![img](media/KE4040.png) | ![img](media/KE4040S.png) | BMP388气压传感器 | 1 |
+| 31 |  ![img](media/KE4024.png) | ![img](media/KE4024S.png) | 单路循线传感器 | 1  |
+| 32 | ![img](media/KE4042.png) | ![img](media/KE4042S.png) | PAJ7620手势识别传感器  | 1 |
+| 33 | ![img](media/KE4033.png) | ![img](media/KE4033S.png) | XHT11温湿度传感器（兼容DHT11）| 1 |
+| 34 | ![](media/KE4034.png) | ![](media/KE4034S.png) | DS18B20温度传感器 | 1  |
+| 35 | ![](media/KE4038.png) | ![](media/KE4038S.png) | 130电机模块  | 1 |
+| 36 | ![](media/KE4043.png) | ![](media/KE4043S.png) | 激光模块  | 1 |
+| 37 | ![](media/KE4048.png) | ![](media/KE4048S.png) | 水滴传感器  | 1  |
+| 38| ![](media/KE4062.png)  | ![](media/KE4062S.png) | 单路5V继电器模块| 1  |
+| 39 | ![](media/KE4065.png) | ![](media/KE4065S.png) | RFID刷卡模块  | 1  |
+| 40| ![](media/KE4023.png) | ![](media/KE4023S.png) | 碰撞传感器  | 1 |
+| 41 | ![](media/KE4058.png) | ![](media/KE4058S.png) |MAX30102心率传感器 | 1 |
+| 42 | ![](media/KE4061.png) | ![](media/KE4061S.png)  | LCD_128X32_DOT模块 | 1 |
+| 43 | ![](media/KE4068.png) | ![](media/KE4068S.png) | 五路AD按键模块  | 1 |
+| 44 | ![](media/KE4073.png) | ![](media/KE4073S.png) | ADXL345加速度传感器模块  | 1|
+| 45 | ![](media/KE4022.png)  | ![](media/KE4022.png)  | 舵机驱动模块  | 1  |
+| 46 | ![](media/9G.png)  | ![](media/9G.png)   | 舵机 配十字臂  | 1 |
+| 47 | ![](media/11946.png) |![](media/11946.png)|风扇叶|1|
+| 48 | ![](media/remotecontrol.png) | ![](media/remotecontrol.png) | 遥控器  | 1 |
+| 49 | ![](media/A.png)  | ![](media/A.png)   | 白磁卡  | 1      |
+| 50 | ![](media/B.png)  | ![](media/B.png)   | 钥匙扣  | 1      |
+| 51 | ![](media/123.png)    | ![](media/123.png)     | 电源适配器  | 1      |
+| 52 | ![](media/USB.jpg)  | ![](media/USB.jpg)   | USB线   | 1  |
+| 53 | ![](media/3pin.png)  | ![](media/3pin.png)   | 3P线 (反向)| 5     |
+| 54 | ![](media/4pin.png)  | ![](media/4pin.png)   | 4P线 (反向)  | 4 |
+| 55 | ![](media/5pin.png)  | ![](media/5pin.png)   | 5P线 (反向) | 3|
+| 56 | ![](media/4pin-5pin.png) | ![](media/4pin-5pin.png) | 4P转5P线 (反向) | 3 |
+| 57 | ![](media/ABC13.png)  | ![](media/ABC13.png)   | 一字螺丝刀 | 1  |
 
 ---
 
