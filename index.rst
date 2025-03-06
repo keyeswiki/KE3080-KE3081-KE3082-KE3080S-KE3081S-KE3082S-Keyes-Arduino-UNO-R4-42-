@@ -1,6 +1,6 @@
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Keyes Arduino UNO R4 42款传感器学习套装
 
    README.md
